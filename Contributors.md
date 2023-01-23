@@ -1,4 +1,4 @@
-﻿﻿**Contributors**
+﻿**Contributors**
 
 <!-- prettier-ignore-start -->
 
@@ -8,6 +8,7 @@
 - [NuggxtDev](https://github.com/Nuggxt)
 - [BenyLava](https://github.com/BenyLava)
 - [Prajwal Nadagouda] (https://github.com/prajwalnadagouda)
+- [Arshon Mihandoost] (https://github.com/armihandoost)
 - [Avinash Dhauni](https://github.com/avinashdhauni)
 - [Jonathan Johnson](https://github.com/Nova-One)
 - [hustnzj](https://github.com/hustnzj)
